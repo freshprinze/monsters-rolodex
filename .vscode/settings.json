@@ -1,0 +1,9 @@
+{
+    "files.autoSave": "afterDelay",
+    "workbench.tree.indent": 19,
+    "workbench.editor.highlightModifiedTabs": true,
+    "editor.fontFamily": "'Fira Code Retina'",
+    "editor.fontLigatures": true,
+    "editor.cursorBlinking": "smooth",
+    "files.trimFinalNewlines": true,
+}
